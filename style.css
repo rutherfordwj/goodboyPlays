@@ -22,26 +22,19 @@ a:hover {
 
 .vertical-list a {
 	background-color: #1F1F1F;
-	/* Grey background color */
 	color: white;
-	/* Black text color */
 	display: block;
-	/* Make the links appear below each other */
 	padding: 12px;
-	/* Add some padding */
 	text-decoration: none;
-	/* Remove underline from links */
 }
 
 .vertical-list a:hover {
 	background-color: #ccc;
 	color: #1F1F1F
-	/* Dark grey background on mouse-over */
 }
 
 .vertical-list a.active {
 	background-color: #4CAF50;
-	/* Add a green color to the "active/current" link */
 	color: white;
 }
 

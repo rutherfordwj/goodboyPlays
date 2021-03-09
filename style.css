@@ -11,10 +11,12 @@ a:link {
 
 a:visited {
 	color: #337CFF;
+	text-decoration: none;
 }
 
 a:hover {
 	color: #33adff;
+	text-decoration: none;
 }
 
 .vertical-list {

@@ -20,7 +20,7 @@ a:hover {
 }
 
 .vertical-list {
-	width: 225px;
+	width: 250px;
 }
 
 .vertical-list a {
@@ -46,7 +46,7 @@ a:hover {
 }
 
 .child {
-	width: 100%;
+	width: fit-content;
 	height: 100%;
 	position: absolute;
 
